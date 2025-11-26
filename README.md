@@ -24,6 +24,6 @@ Explore destinations, plan trips, and discover adventures with travel.com – yo
 ### Clone Repositories
 
 ```
-git clone https://github.com/yourname/travel-website.git
-cd travel-website
+git clone https://github.com/ch16447/trav.com.git
+cd trav.com
 ```
