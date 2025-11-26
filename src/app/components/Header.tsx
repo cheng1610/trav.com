@@ -1,12 +1,11 @@
 "use client"
 
-import '@/styles/Header.css'
+import '../styles/Header.css'
 import { FaMapMarkerAlt } from 'react-icons/fa';
 import { AiOutlineMenu } from 'react-icons/ai';
 import { RiContactsLine } from 'react-icons/ri';
 import { MdClose } from 'react-icons/md';
 import { useState, useEffect} from 'react';
-import Link from 'next/link';
 
 
 export default function Header(){

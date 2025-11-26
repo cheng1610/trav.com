@@ -1,4 +1,4 @@
-import '@/styles/Home.css'
+import '../styles/Home.css'
 import { TiWeatherPartlySunny } from "react-icons/ti";
 import { IoSearch } from "react-icons/io5";
 import { FaLocationDot } from 'react-icons/fa6';

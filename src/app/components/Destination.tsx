@@ -1,4 +1,4 @@
-import '@/styles/Destination.css'
+import '../styles/Destination.css'
 import { IoLocationSharp } from "react-icons/io5";
 import { IoSunny } from "react-icons/io5";
 import { RiGroup3Fill } from "react-icons/ri";

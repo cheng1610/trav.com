@@ -1,4 +1,4 @@
-import '@/styles/Footer.css'
+import '../styles/Footer.css'
 import { FaMapMarkerAlt } from 'react-icons/fa';
 import { FaFacebook } from "react-icons/fa6";
 import { AiFillInstagram } from "react-icons/ai";

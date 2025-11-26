@@ -1,4 +1,4 @@
-import '@/styles/Service.css'
+import '../styles/Service.css'
 import { RiEarthFill } from "react-icons/ri";
 import { FaHome } from "react-icons/fa";
 import { IoAirplane } from "react-icons/io5";

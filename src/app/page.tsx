@@ -1,13 +1,13 @@
 "use client"
 
 import '@/src/app/globals.css'
-import Header from "@/components/Header";
-import HomeComponent from "@/components/Home";
-import Service from "@/components/Service";
-import Destination from "@/components/Destination";
-import Gallery from "@/components/Gallery";
-import Contact from "@/components/Contact";
-import Footer from "@/components/Footer";
+import Header from "@/src/app/components/Header";
+import HomeComponent from "@/src/app/components/Home";
+import Service from "@/src/app/components/Service";
+import Destination from "@/src/app/components/Destination";
+import Gallery from "@/src/app/components/Gallery";
+import Contact from "@/src/app/components/Contact";
+import Footer from "@/src/app/components/Footer";
 import { useEffect } from "react";
 
 
