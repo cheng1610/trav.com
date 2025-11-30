@@ -2,7 +2,7 @@
 Explore destinations, plan trips, and discover adventures with travel.com – your ultimate travel companion.
 
 ## ✨ Demo
-![img](https://github.com/ch16447/trav.com/blob/main/trav.com.png?raw=true)
+![img](https://github.com/cheng1610/trav.com/blob/main/trav.com-1.png)
 
 ## 🚀 Features
 - sightseeing and classification
