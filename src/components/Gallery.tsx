@@ -73,11 +73,11 @@ export default function Gallery(){
                                 <div className="gallery__shadow"></div>
                                 <div className="gallery__content">
                                     <div className="author">
-                                        <img src="https://images.pexels.com/lib/avatars/purple.png?w=130&h=130&fit=crop&dpr=2" alt="" loading='lazy'/>
-                                        <span className="author__name">Liuuu _61</span>
+                                        <img src="https://images.pexels.com/users/avatars/1466488543/elton-zheng-450.png?auto=compress&fit=crop&h=130&w=130&dpr=2" alt="" loading='lazy'/>
+                                        <span className="author__name">Elton Zheng</span>
                                     </div>
                                     <div className="gallery__locate">
-                                        <span className='locate'>Tokyo</span>
+                                        <span className='locate'>Asahikawa</span>
                                         <span className='country'><IoMdPin/>Japan</span>
                                     </div>
                                 </div>
